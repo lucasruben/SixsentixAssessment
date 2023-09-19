@@ -15,12 +15,16 @@ Automated test cases from the QA Assessment.
    For example: C:\Users\lucas>dotnet test "C:\Users\lucas\source\repos\SixsentixAutomation\SixsentixAutomation\bin\Debug\net6.0\SixsentixAutomation.dll"
 4. Test will run and a summary will be displayed when finished.
 
+![image](https://github.com/lucasruben/SixsentixAssessment/assets/18044146/cb4e9b64-41cd-484a-8aa9-c6074a4d5d18)
+
 # Option 2: from Visual Studio
 1. Download the solution and build it.
 2. Go to the top menu and click on Test > Test Explorer.
 3. A list of the available tests will be displayed.
 4. Right-click any of them and click Run Test.
 5. Tests will run and a summary will be displayed when done.
+
+![image](https://github.com/lucasruben/SixsentixAssessment/assets/18044146/212a84fc-5e85-4da0-98a4-6f4183f4d7f0)
 
 # Option 3: using the NUnit console (https://nunit.org/download/)
 1. Download the NUnit Console.
